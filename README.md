@@ -1,0 +1,1 @@
+# ruby-typing-example
