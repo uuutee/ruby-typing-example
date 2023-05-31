@@ -1,0 +1,9 @@
+class TypingTest
+  @strings: Array[String]
+  @ints: Array[Integer]
+
+  def strings: -> Array[String]
+  def ints: -> Array[Integer]
+  def add_string: (String) -> nil
+  def add_int: (Integer) -> nil
+end
